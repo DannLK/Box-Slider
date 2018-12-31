@@ -1,6 +1,5 @@
 # Box-Slider
-Demo of a box slider game created in unity with C#. Play as the mighty red box and avoid the impending obstacles ahead. Demo incorporates score UI, smooth player movements, and realistic player collisions. 
-
+Demo of a box slider game created in unity with C#. Play as the mighty red box and avoid the impending obstacles ahead. 
 [Game Demo](https://BoxSlider.surge.sh)
 
 
